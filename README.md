@@ -1,6 +1,6 @@
 ## **⭐️ About Me:**
 
-> **<span style="color:blue">"Passion for technology, combined with determination and the ability to overcome challenges, can take us to places we never imagined."</span>**
+> **<span style="color:blue">Passion for technology, combined with determination and the ability to overcome challenges, can take us to places we never imagined.</span>**
 
 Welcome to my GitHub corner! I'm Elena Villalba, a robotics and electronic engineering enthusiast. A few years ago, I stumbled upon Arduino for the first time, a microcontroller that opened the doors to a universe of creative possibilities for me. Captivated by the idea of bringing my projects to life, I decided to immerse myself in the fascinating world of robotics.
 
